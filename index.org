@@ -1,0 +1,26 @@
+#+TITLE: Some Useful Links for Learning
+#+DESCRIPTION: Website created using emacs org mode
+#+AUTHOR: Varghese Reji
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="pink-orb/style.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="pink-orb/menu.css">
+#+HTML_HEAD:<!--[if lt IE 8]>
+#+HTML_HEAD: <style type="text/css" media="screen">
+#+HTML_HEAD: body{behavior:url(csshover.htc); font-size:75%;}
+#+HTML_HEAD: </style>
+#+HTML_HEAD: <![endif]-->
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* Basic Physics
+- Feynman Lectures of Physics
+- Modern Physics, Arthur Beiser
+- [[https://youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e][Classical Mechanics Lectures by Walter Lewin]]
+- [[https://youtube.com/playlist?list=PLq-Gm0yRYwThKeMSP_ii5klqDYvta4HQI][11th Class Physics, Prof V. Balakrishnan]]
+
+* Some Useful Youtube Channels/Playlists
+- [[https://youtube.com/playlist?list=PL5Mv2Yq4bRm3BwvjVJNIl9Uti8qao6YbW][Opiniated Lessons in Statistics]]
+- [[https://youtube.com/playlist?list=PLq-Gm0yRYwThKeMSP_ii5klqDYvta4HQI][Physics Videos by Eugene Khutoryansky]]
+- [[https://youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e][3Bue1Brown]]
+
+* Informative
+- [[https://www.youtube.com/@veritasium][Veritasium]]
+- [[https://www.youtube.com/@nissaaram][NISSAARAM]]
