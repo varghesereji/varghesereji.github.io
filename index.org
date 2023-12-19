@@ -1,4 +1,4 @@
-#+TITLE: Some Useful Links for Learning
+#+TITLE: Some Useful Materials for Learning
 #+DESCRIPTION: Website created using emacs org mode
 #+AUTHOR: Varghese Reji
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="pink-orb/style.css">
@@ -23,4 +23,24 @@
 
 * Informative
 - [[https://www.youtube.com/@veritasium][Veritasium]]
+- [[https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw][Up and Atom]]
 - [[https://www.youtube.com/@nissaaram][NISSAARAM]]
+- [[https://www.youtube.com/@alexplain][alexplain]]
+
+* Useful links for exoplanet research.
+- [[https://avanderburg.github.io/tutorial/tutorial.html][Transit Light Curve Tutorial]]
+- [[https://link.springer.com/referenceworkentry/10.1007/978-3-319-55333-7_4][Radial Velocities as an Exoplanet Discovery Method]]
+- [[https://oer.pressbooks.pub/lynnanegeorge/chapter/chapter-3-the-classical-orbital-elements-coes/][Introduction to Orbital Mechanics]]
+- [[https://link.springer.com/referenceworkentry/10.1007/978-3-319-55333-7_149][Bayesian Methods for Exoplanet Science]]
+- [[https://www.aanda.org/articles/aa/pdf/2001/29/aa1316.pdf][Fundamental photon noise limit to radial velocity measurements]]
+- [[https://www.annualreviews.org/doi/full/10.1146/annurev-astro-112420-020055][Exoplanet Statistics and Theoretical Implications]]
+- [[https://ui.adsabs.harvard.edu/abs/2021exbi.book....2G/abstract][The Demographics of Exoplanets]]
+- [[https://ui.adsabs.harvard.edu/abs/2022ASSL..466..143B/abstract][The Demographics of Close-In Planets]]
+- [[https://ui.adsabs.harvard.edu/abs/2022ASSL..466..237G/abstract][The Demographics of Wide-Separation Planets]]
+- [[https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-081817-051853][https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-081817-051853]]
+- [[https://arxiv.org/pdf/1402.1169.pdf][Exoplanetary Atmospheres]]
+- [[https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-081309-130837][Exoplanet Atmospheres]]
+- [[https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-052920-125632][Atmospheres of Rocky Exoplanets]]
+- [[https://www.annualreviews.org/doi/pdf/10.1146/annurev.astro.41.071601.170049][EVOLUTION OF A HABITABLE P LANET]]
+- 
+  
